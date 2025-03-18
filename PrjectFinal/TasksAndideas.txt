@@ -1,0 +1,98 @@
+Full-Stack MERN Final Project Specification Document
+1. Project Overview
+Project Name: Eventify (or any name you prefer)
+
+Short Description: A full-stack MERN application for event planning, allowing users to manage weddings, birthdays, and corporate events. Features include venue selection, guest management, RSVP tracking, and vendor recommendations.
+
+2. Group Members
+Name	Email	GitHub Profile
+Farouk		
+Youcef		
+3. Selected Theme
+✔ MERN Application
+
+4. Features & Functionalities
+Frontend Features
+User authentication (signup/login)
+
+Event creation and customization
+
+RSVP & guest management
+
+Venue & vendor selection
+
+Event gallery & social sharing
+
+Dashboard for event overview
+
+Mobile-responsive design
+
+Backend Features
+User authentication (JWT-based)
+
+CRUD operations for events
+
+Database schema for users, events, guests, and vendors
+
+API endpoints for managing event data
+
+Payment integration for premium features
+
+Email notifications for invitations and reminders
+
+Additional Features (if any)
+Live chat for event support
+
+Google Maps API for venue selection
+
+AI-based vendor recommendations
+
+5. Technologies Used
+Frontend: React, Tailwind CSS
+
+Backend: Express.js, Mongoose
+
+Database: MongoDB (Atlas)
+
+Additional Libraries/Tools: Cloudinary (for image upload), Nodemailer (for emails), Stripe (for payments), Google Maps API
+
+6. Project Milestones & Timeline
+Milestone	Expected Completion Date
+Project Setup	2 days (01/03 - 03/03)
+Backend Development	1 week (04/03 - 12/03)
+Frontend Development	2 weeks (12/03 - 25/03)
+Integration & Testing	4 days (26/03 - 30/03)
+Final Deployment	1 day (31/03)
+7. Task Distribution
+Farouk' Tasks
+Project setup (GitHub repo, folder structure)
+
+Backend setup (Express, MongoDB connection)
+
+User authentication (JWT-based)
+
+API endpoints for users & event management
+
+Implement email notifications (Nodemailer)
+
+Deployment of backend (Render/Heroku)
+
+Youcef's Tasks
+Frontend setup (React, Tailwind, routing)
+
+Event creation & customization UI
+
+RSVP and guest management UI
+
+Payment integration (Stripe)
+
+Google Maps API for venues
+
+Deployment of frontend (Vercel/Netlify)
+
+8. Additional Notes
+Regular team meetings to review progress
+
+Use Trello or GitHub Projects for task tracking
+
+Ensure mobile responsiveness and security measures
